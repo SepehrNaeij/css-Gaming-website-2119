@@ -1,1 +1,155 @@
+.mid-game-section{
+    width: 1200px;
+    margin-top: 144px;
+}
 
+.flex-middle-game{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 63px;
+}
+
+.flex-middle-game-inside{
+    width: 378px;
+    height: 348px;
+    border-radius: 20px;
+    background-color:black;
+}
+
+.inside-flex-div{
+    margin-left: 37px;
+    margin-top: 64px;
+    width: 140px;
+    height: 39px;
+    border-radius: 8px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.colored-flex-div>p{
+  font-weight: 400px;
+}
+
+.flex-div-inside{
+    margin-left: 37px;
+    margin-top: 19px;
+    width: 304px;
+    height: 162px;
+}
+
+.flex-div-inside > p{
+    font-size: 14px;
+    line-height: 30px;
+
+}
+
+.center-section{
+    display: flex;
+    width: 1600px;
+    height: 603px;
+    background-color: #1C140F;
+    margin-top: 147px;
+    margin-left: -200px;
+    
+  }
+  
+  .center-section .img-center{
+    width: 496px;
+    height: 490px;
+    margin-left: 110px;
+    background-color: #1C140F;
+  }
+  
+  .center-section .img-center img{
+    width: 100%;
+    height: 100%;
+    margin-top: 113px;
+    margin-left: 110px;
+    border-radius: 24px 24px 0px 0px;
+    
+  }
+  
+  .center-section .text-center{
+    max-width: 900px;
+    height: 323px;
+    margin-left: 200px;
+    margin-top: 134px;
+  }
+  
+  .center-section .text-center h4{
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 32px;
+    margin-bottom: 14px;
+    
+  }
+  
+  .center-section .text-center .center-p-1{
+    font-size: 28px;
+    line-height: 44px;
+    max-width: 500px;
+    max-height: 150px;
+    color: #ffffff;
+  }
+
+  .center-p-1{
+    font-weight: 600;
+
+  }
+
+  .center-p-2{
+    font-weight: 400;
+  }
+
+  .center-section .text-center .center-p-2{
+    font-size: 15px;
+    line-height: 32px;
+    max-width: 500px;
+    margin-top: 14px;
+    color: #ffffff;
+  }
+
+  .mid-buttom-flex-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .our-team-section{
+    margin-top: 148px;
+    color:#ffffff ;
+    font-size: 25px;
+    font-weight: 600;
+  }
+  
+ 
+  .person-section {
+    border-radius: 20px;
+    background-color: var(--black-700);
+    height: 253px;
+    width: 295px;
+    margin-top: 53px;
+    margin-left: 20px;
+    
+  } 
+  .person-section img {
+    width: 123px;
+    height: 123px;
+    background-color: var(--black-700);
+    display: block;
+    margin-top: 35px;
+    margin-left: 86px;
+  }
+
+  .person-section .text {
+    text-align: center;
+    background-color: var(--black-700);
+    color: #ffffff;
+  }
+  
+
+
+  
+
+  
