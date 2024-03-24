@@ -1,1 +1,87 @@
+.descrption-div{
+    margin-left: 148px;
+    margin-top: 103px;
+    height: 510px;
+    width: 527px;
 
+}
+
+.top-section{
+    display: flex;
+    justify-content: space-between;
+    height: 510px;
+}
+
+
+.p2-div{
+    color: white;
+    font-size: 12px;
+    width: 450px;
+    height: 101px;
+    font-weight: 500;
+    line-height: 32px;
+
+}
+
+.unity-img{
+    width: 96px;
+    height: 30px;
+    margin-top: 300px;
+    
+}
+
+.button2{
+    background-color: #FA8305;
+    color :#ffffff;
+    border-radius: 30px;
+    width: 195px;
+    height: 53px;
+    font-size: 16px;
+    margin-top: 30px;
+    
+}
+
+.button-link{
+    color :#ffffff;
+    text-decoration: none;
+}
+
+.troller-image{
+    width: 550px;
+    height: 570px;
+}
+
+.desc-image-div{
+    width: 806px;
+    height: 761px;
+    margin-right: -280px;
+    margin-top: 20px;
+}
+
+.cry-image{
+    position: absolute;
+    margin-left: -570px;
+    margin-top: 80px;
+    width: 101px;
+    height: 99px;
+}
+
+.unreal-image{
+    position: absolute;
+    width: 59px;
+    height: 64px;
+    margin-top: 100px;
+    margin-left: -260px 
+}
+
+.desc-div-p{
+    color :#cb6a02;
+    font-weight: 700;
+}
+
+.desc-div-h{
+    color: white;
+    font-size: 55px;
+    font-weight: 700;
+
+}

@@ -1,0 +1,96 @@
+.mid-section{
+    margin-top: 250px;
+
+}
+
+.second-middle-sectioin{
+        margin-left: 146px;
+        margin-top: 67px;
+        width: 1146px;
+}
+
+.middle-section-text{
+    color : white;
+    width : 545px;
+    height: 173px;
+}
+
+.spiderman-image{
+    width: 1146px;
+    height: 462px;
+    margin-top: 46px;
+}
+
+.lorem-h{
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+.lorem-p{
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.lorem-p2{
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.up-container-text{
+    text-align: center;
+    margin-top: 148px;
+    color: white;
+    position: absolute;
+    left: 35%;
+    width:497px;
+    height: 128px;
+}
+
+.container-imges-1{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-top: 347px;
+    height: 233px;
+    flex-wrap: wrap;
+
+}
+
+.container-imges-2{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    height: 233px;
+    margin-top: 33px;
+    flex-wrap: wrap;
+
+}
+
+.container-img-1{
+    width: 246px;
+}
+
+.container-img-2{
+    width: 401px;
+}
+
+.container-img-3{
+    width: 469px;
+}
+
+
+.button4{
+    width: 139px;
+    height: 57px;
+    border-radius: 10px;
+    margin-top: 72px;
+    font-size: 20px;
+    line-height: 37.5px;
+    color: white;
+    background-color: #5141AA;
+    position: absolute;
+    left: 45%;
+}
